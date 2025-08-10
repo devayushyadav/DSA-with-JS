@@ -1,0 +1,46 @@
+What is Data structure?
+Basically it is a way to organize data so that it can be used efficiently.
+
+
+What is an algorithm?
+It is a process or steps taken to arrange data
+
+
+Types of data
+1. Primitive
+- Number | Integer | Float
+
+- String | Character
+
+- Pointer
+
+- Null
+
+- Undefined
+
+2. Non-Primitive
+- Arrays
+
+- Objects
+
+- Lists
+--> Linear List
+---> Stacks
+---> Queues
+
+--Non Linear List
+---> Graphs
+---> Trees
+
+- Files
+
+
+
+Operations of data structure
+
+-Traversal
+-Insertion
+-Deletion
+-Searching
+-Sorting
+-Merging
